@@ -1,4 +1,4 @@
-The above code base should clearly compiles (and does correctly compile within eclipse) but fails with the xtend/xtext gradle plugin.
+The above code base should clearly compiles (and does correctly compile within eclipse) but fails with the xtend/xtext gradle plugin. **FIXED: by upgrading to 2.11.0**
 
 To reproduce the bug:
 
